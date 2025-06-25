@@ -43,6 +43,6 @@ UART
 I2C
 SPI
 
-**Week 12: Final Project**
+**Week 9: Final Project**
 
 
